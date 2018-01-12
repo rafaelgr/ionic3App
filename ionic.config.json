@@ -1,0 +1,8 @@
+{
+  "name": "quicklists",
+  "app_id": "5397fff3",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
